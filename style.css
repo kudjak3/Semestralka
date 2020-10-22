@@ -1,12 +1,12 @@
 
-h1 {
+h1,h2{
     color: #18518e;
     text-align: center;
     font-family: fantasy;
-    font-size: 5rem;
+    font-size: 5rem !important;
 }
 nav {
-    background-color: #18518e;
+    background-color:  #18518e;
 }
 
 #dropdownMenuButton {
@@ -14,10 +14,39 @@ nav {
     background-color: #18518e;
     border-color: #18518e;
 }
+
 p {
     color: black;
     text-align: center;
     font-family: "Arial Black";
     font-size: 1.5rem;
     font-style: italic;
+}
+.container {
+    max-width: none;
+}
+.btn-outline-success {
+    color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+
+.flex-column {
+    margin-left: auto;
+    text-align: center;
+    color: white;
+}
+#clm1,#clm3{
+    margin-left: unset !important;
+}
+#clm2{
+    margin-left: unset !important;
+    margin-right: auto;
+}
+#squad{
+    background-image: url("https://ih1.redbubble.net/image.360456387.3989/flat,800x800,070,f.u1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-center{
+    color: white;
 }
