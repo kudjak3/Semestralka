@@ -37,13 +37,13 @@ p {
     font-size: 1.5rem;
     font-style: italic;
 }
-p1 {
+#p1 {
     text-align: center;
     font-family: "serif";
     font-size: 1.5rem;
     font-style: italic;
 }
-p2 {
+#p2 {
     text-align: center;
     font-family: "cursive";
     font-size: 1.5rem;
