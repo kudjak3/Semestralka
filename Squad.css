@@ -1,0 +1,57 @@
+h1{
+    color: #18518e;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 5rem;
+}
+nav {
+    background-color:  #18518e;
+}
+
+#dropdownMenuButton {
+    color: white;
+    background-color: #18518e;
+    border-color: #18518e;
+}
+
+.container {
+    max-width: none;
+}
+.btn-outline-success {
+    color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+
+.flex-column {
+    margin-left: auto;
+    text-align: center;
+    color: white;
+}
+#clm1,#clm3{
+    margin-left: unset !important;
+}
+#clm2{
+    margin-left: unset !important;
+    margin-right: auto;
+}
+body{
+    background-image: url("https://ih1.redbubble.net/image.360456387.3989/flat,800x800,070,f.u1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.text-center {
+    color: white;
+}
+#logo{
+    width: 40px;
+    height: 40px;
+}
+.number{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.position{
+    font-size: 1.5rem;
+}

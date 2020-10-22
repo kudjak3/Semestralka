@@ -1,0 +1,65 @@
+
+h1{
+     color: #18518e;
+     text-align: center;
+     font-family: fantasy;
+     font-size: 5rem;
+ }
+h2{
+    text-align: center;
+    font-family: "Berlin Sans FB";
+    font-size: 3rem;
+    font-style: oblique;
+}
+h3{
+    text-align: center;
+    font-family: "Cambria";
+    font-size: 3rem;
+}
+h4{
+    text-align: center;
+    font-family: "Dubai";
+    font-size: 2rem;}
+nav {
+    background-color:  #18518e;
+}
+
+#dropdownMenuButton {
+    color: white;
+    background-color: #18518e;
+    border-color: #18518e;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-family: "Arial Black";
+    font-size: 1.5rem;
+    font-style: italic;
+}
+p1 {
+    text-align: center;
+    font-family: "serif";
+    font-size: 1.5rem;
+    font-style: italic;
+}
+p2 {
+    text-align: center;
+    font-family: "cursive";
+    font-size: 1.5rem;
+}
+
+.btn-outline-success {
+    color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+.d-block{
+    height: 700px;
+}
+#carouselExampleIndicators{
+    height: 700px;
+}
+#logo{
+    width: 40px;
+    height: 40px;
+}

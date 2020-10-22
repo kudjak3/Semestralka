@@ -1,0 +1,39 @@
+h1{
+    color: #18518e;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 5rem;
+}
+nav {
+    background-color:  #18518e;
+}
+
+#dropdownMenuButton {
+    color: white;
+    background-color: #18518e;
+    border-color: #18518e;
+}
+
+.container {
+    max-width: none;
+}
+.btn-outline-success {
+    color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+
+#logo{
+    width: 40px;
+    height: 40px;
+}
+#text{
+    font-weight: bold;
+    font-family: "Eras Medium ITC";
+    font-size: 1.5rem;
+    text-align: center;
+}
+.rounded
+{
+    position: center;
+    border: 4px solid #18518e;
+}
